@@ -1,9 +1,9 @@
 {
   "owner": {
-    "username": "Rylazius",
+    "username": "aftercares0",
     "email": "nodejsenjoyer@gmail.com"
   },
   "records": {
-    "CNAME": "rylazius.github.io"
+    "A": "127.0.0.1"
   }
 }
